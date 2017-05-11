@@ -24,6 +24,7 @@ modifier breast/breast-dist-decr|incr 0.490000
 modifier torso/torso-trans-in|out -0.064000
 modifier macrodetails-universal/Weight 0.500000
 hair long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39
+skeleton game_engine.mhskel
 eyebrows eyebrow007 f2092456-86eb-423f-a5c6-2e0b3117d664
 eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
 pose standing03.bvh

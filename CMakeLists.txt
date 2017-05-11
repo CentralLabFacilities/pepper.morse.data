@@ -20,7 +20,7 @@ ENDIF (NOT MORSE_ROOT)
 
 MESSAGE("-- Your MORSE_ROOT is: ${MORSE_ROOT}")
 
-SET(TARGET_DIR ${PREFIX}/pepper_morse/data/pepper_morse/robots)
+SET(TARGET_DIR ${PREFIX}/share/pepper_morse/data/pepper_morse/robots)
 
 file(GLOB MODELS
   "${CMAKE_CURRENT_SOURCE_DIR}/*.blend"

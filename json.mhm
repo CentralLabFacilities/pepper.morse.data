@@ -1,0 +1,51 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags json
+camera 9.0 3.5 0.199171071803 0.398142090159 0.69090799647 0.675
+modifier mouth/mouth-dimples-in|out -0.526000
+modifier nose/nose-trans-backward|forward -0.768000
+modifier macrodetails-universal/Muscle 0.000000
+modifier macrodetails/African 1.000000
+modifier macrodetails-proportions/BodyProportions 1.000000
+modifier mouth/mouth-laugh-lines-in|out 0.536000
+modifier nose/nose-trans-down|up 0.968000
+modifier mouth/mouth-lowerlip-ext-down|up 0.464000
+modifier macrodetails/Gender 1.000000
+modifier head/head-angle-in|out 1.000000
+modifier macrodetails-height/Height 0.637000
+modifier breast/BreastSize 0.500000
+modifier mouth/mouth-lowerlip-middle-down|up 0.464000
+modifier macrodetails/Age 0.379000
+modifier mouth/mouth-angles-down|up -0.610000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.000000
+modifier eyebrows/eyebrows-angle-down|up -0.694000
+modifier mouth/mouth-philtrum-volume-decr|incr -0.568000
+modifier head/head-oval 0.763000
+modifier mouth/mouth-upperlip-middle-down|up -0.694000
+modifier head/head-fat-decr|incr 1.000000
+modifier head/head-diamond 0.368000
+modifier macrodetails/Caucasian 0.000000
+modifier nose/nose-trans-in|out 0.778000
+modifier nose/nose-scale-vert-decr|incr -0.348000
+modifier head/head-round 0.300000
+modifier mouth/mouth-cupidsbow-decr|incr 0.336000
+modifier eyebrows/eyebrows-trans-backward|forward 0.526000
+modifier eyebrows/eyebrows-trans-down|up 1.000000
+modifier nose/nose-scale-horiz-decr|incr -0.548000
+modifier macrodetails-universal/Weight 0.421000
+modifier mouth/mouth-upperlip-ext-down|up 0.506000
+teeth Teeth_Shape02 a59089de-3180-40e6-8406-bda05bb837ff
+hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
+eyelashes eyelashes03 a311babf-a7fb-4d65-a1fc-94ab99fe520f
+skeleton game_engine.mhskel
+eyebrows eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing02.bvh
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/green.mhmat
+subdivide False

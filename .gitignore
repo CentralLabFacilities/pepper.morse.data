@@ -89,3 +89,5 @@ ENV/
 .ropeproject
 
 build
+*.blend1
+*.thumb

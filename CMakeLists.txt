@@ -1,7 +1,7 @@
 ### Maintainer: flier[@techfak.uni-bielefeld.de] ###
 cmake_minimum_required(VERSION 2.8)
 PROJECT(pepper_morse_data)
-SET(CMAKE_BUILD_TYPE distribution)
+SET(CMAKE_BUILD_TYPE release)
 
 MESSAGE("-- You are building on: ${CMAKE_SYSTEM_NAME}")
 MESSAGE("-- If you don't set -DCMAKE_INSTALL_PREFIX and -DMORSE_ROOT, defaults are used.")
@@ -20,7 +20,7 @@ ENDIF (NOT MORSE_ROOT)
 
 MESSAGE("-- Your MORSE_ROOT is: ${MORSE_ROOT}")
 
-SET(TARGET_DIR ${PREFIX}/share/pepper_morse/data/pepper_morse/robots)
+SET(TARGET_DIR ${PREFIX}/share/hri_sim/data/hri_sim/robots)
 
 file(GLOB MODELS
   "${CMAKE_CURRENT_SOURCE_DIR}/*.blend"
